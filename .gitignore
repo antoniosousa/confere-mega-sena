@@ -1,0 +1,7 @@
+.vscode/*
+venv/*
+.python-version
+chromedriver
+chromedriver_linux64.zip
+geckodriver.log
+.mypy_cache/*
