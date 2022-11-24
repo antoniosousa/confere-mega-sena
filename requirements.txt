@@ -1,3 +1,4 @@
 typer[all]==0.7.0
 beautifulsoup4==4.11.1
 selenium==4.6.0
+peewee==3.15.4
