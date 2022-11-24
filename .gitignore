@@ -5,3 +5,5 @@ chromedriver
 chromedriver_linux64.zip
 geckodriver.log
 .mypy_cache/*
+*.db
+*__pycache__*
