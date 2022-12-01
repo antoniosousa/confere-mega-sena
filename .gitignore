@@ -1,6 +1,7 @@
 .vscode/*
 venv/*
 .env/*
+.venv/*
 .python-version
 chromedriver
 chromedriver_linux64.zip
